@@ -1,0 +1,12 @@
+{
+  "name": "chaoorbackened",
+  "version": "1.0.0",
+  "description": "node project",
+  "license": "ISC",
+  "author": "Muhamad Talha",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
